@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <h1>Tyrell K. Oliver</h1>
+      <h2>Hey, I'm Tyrell</h2>
     </>
   );
 }
